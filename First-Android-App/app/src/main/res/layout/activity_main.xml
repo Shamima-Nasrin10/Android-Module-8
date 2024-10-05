@@ -27,7 +27,7 @@
         android:layout_height="wrap_content"
         android:background="@color/material_dynamic_primary30"
         android:text="Home"
-        android:textColor="?android:attr/colorActivatedHighlight"
+        android:textColor="?attr/actionModeSplitBackground"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
