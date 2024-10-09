@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "620808163210",
+    "project_id": "ticket-booking-d8a59",
+    "storage_bucket": "ticket-booking-d8a59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620808163210:android:d2d390b7e3840968f84273",
+        "android_client_info": {
+          "package_name": "com.shamnas.ticketbookingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe2mFJWKgbO1QO-w2mwpYWkjyBMBTidAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
