@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#F44336</color>
+    <color name="green">#4CAF50</color>
+    <color name="blue">#2196F3</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="purple">#9C27B0</color>
+    <color name="orange">#FF9800</color>
+    <color name="pink">#E91E63</color>
+
+    <!-- Grayscale -->
+    <color name="gray50">#FAFAFA</color>  <!-- Lightest gray -->
+    <color name="gray100">#F5F5F5</color>
+    <color name="gray200">#EEEEEE</color>
+    <color name="gray300">#E0E0E0</color>
+    <color name="gray400">#BDBDBD</color>
+    <color name="gray500">#9E9E9E</color>  <!-- Default gray -->
+    <color name="gray600">#757575</color>
+    <color name="gray700">#616161</color>
+    <color name="gray800">#424242</color>
+    <color name="gray900">#212121</color>  <!-- Darkest gray -->
+
+    <!-- Material Design Colors -->
+    <color name="md_red">#D32F2F</color>
+    <color name="md_green">#388E3C</color>
+    <color name="md_blue">#1976D2</color>
+    <color name="md_yellow">#FBC02D</color>
+    <color name="md_purple">#7B1FA2</color>
+    <color name="md_orange">#F57C00</color>
+
+    <!-- Pastel Colors -->
+    <color name="pastel_red">#FFCDD2</color>
+    <color name="pastel_green">#C8E6C9</color>
+    <color name="pastel_blue">#BBDEFB</color>
+    <color name="pastel_yellow">#FFF9C4</color>
+    <color name="pastel_purple">#E1BEE7</color>
+    <color name="pastel_orange">#FFE0B2</color>
+
+    <!-- Transparent Colors -->
+    <color name="transparent_black">#80000000</color> <!-- 50% transparent black -->
+    <color name="transparent_white">#80FFFFFF</color> <!-- 50% transparent white -->
+</resources>
